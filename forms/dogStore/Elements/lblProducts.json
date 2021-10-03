@@ -19,7 +19,7 @@
   "hidden": "",
   "id": "lblProducts",
   "labelStyle": "text",
-  "left": 30,
+  "left": 24,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 324,
-  "value": "Label",
+  "top": 323,
+  "value": "",
   "width": 259
 }
