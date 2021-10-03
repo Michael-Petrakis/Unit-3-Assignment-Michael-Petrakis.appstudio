@@ -26,6 +26,7 @@
             "cityWhile",
             "cityWhile.json"
           ]
+
         },
         {
           "!type": "External",
@@ -34,6 +35,7 @@
             "dogStore",
             "dogStore.json"
           ]
+
         }
       ],
       "configxml": null,
@@ -55,7 +57,11 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
+
       "firstform": "dogStore",
+=======
+      "firstform": "cityWhile",
+
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
